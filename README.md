@@ -7,7 +7,7 @@ A simple trait for making Eloquent models localizable in Laravel. This trait all
 1. Install the package via Composer:
 
 ```bash
-composer require megazezz/laravel-eloquent-localizable
+composer require megaezz/laravel-eloquent-localizable
 ```
 
 2. Apply the Localizable trait to your Eloquent model:
