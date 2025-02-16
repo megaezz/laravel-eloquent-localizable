@@ -1,0 +1,19 @@
+{
+    "name": "megaezz/laravel-eloquent-localizable",
+    "description": "Retrieve the value of a localizable attribute based on the current locale.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Кирилл",
+            "email": "megaezh@me.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Megaezz\\LaravelEloquentLocalizable\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
