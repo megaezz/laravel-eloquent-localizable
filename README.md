@@ -1,4 +1,4 @@
-# LaravelEloquentLocalizable
+# Laravel Eloquent Localizable
 
 A simple trait for making Eloquent models localizable in Laravel. This trait allows you to easily manage model attributes in different languages by using the current locale or a fallback locale.
 
